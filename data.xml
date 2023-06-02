@@ -4,14 +4,14 @@
         <title>Web3 Courses RSS</title>
         <link>https://web3cave.github.io/web3-courses-data/data.xml</link>
         <description>A web3 courses list.</description>
-        <lastBuildDate>Tue, 02 May 2023 06:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 06:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[thirdweb]]></title>
             <link>https://twitter.com/thirdweb_</link>
             <guid>https://twitter.com/thirdweb_</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[Build web3 apps, easily.
 Smart contracts you control. Tools that accelerate your workflow.
 Intuitive SDKs and widgets for developers.]]></description>
@@ -20,7 +20,7 @@ Intuitive SDKs and widgets for developers.]]></description>
             <title><![CDATA[Web3 University]]></title>
             <link>https://twitter.com/web3university</link>
             <guid>https://twitter.com/web3university</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[Blockchain Development
 Covering the fundamentals of web3 development: from writing Solidity, to minting NFTs, to building full-stack dApps. Bringing you resources from the best in blockchain.]]></description>
         </item>
@@ -28,7 +28,7 @@ Covering the fundamentals of web3 development: from writing Solidity, to minting
             <title><![CDATA[Learn Web3]]></title>
             <link>https://twitter.com/LearnWeb3DAO</link>
             <guid>https://twitter.com/LearnWeb3DAO</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[Web2 += 1
 Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart Contracts? This is the place for you!]]></description>
         </item>
@@ -36,28 +36,28 @@ Curious about Web3 as a developer? Wonder what are NFTs, DAOs, DeFi, and Smart C
             <title><![CDATA[useWeb3]]></title>
             <link>https://twitter.com/useWeb3</link>
             <guid>https://twitter.com/useWeb3</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[A platform for developers to learn about Web3. Explore tutorials, guides, courses, challenges and more. Learn by building ⚒️ Find your job ✨ Start contributing]]></description>
         </item>
         <item>
             <title><![CDATA[Questbook]]></title>
             <link>https://twitter.com/questbookapp</link>
             <guid>https://twitter.com/questbookapp</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[Building the worlds first University DAO. One where learning is always free. Download the app & Learn Web3 now]]></description>
         </item>
         <item>
             <title><![CDATA[NFT School]]></title>
             <link>https://nftschool.dev/</link>
             <guid>https://nftschool.dev/</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[A collective of web developers and technology enthusiasts here to figure out what's going on with non-fungible tokens, or NFTs. ]]></description>
         </item>
         <item>
             <title><![CDATA[Pointer]]></title>
             <link>https://www.pointer.gg/</link>
             <guid>https://www.pointer.gg/</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[learn how to build web3 apps
 Learn web3 dev skills with fun interactive tutorials. Earn crypto rewards along the way!]]></description>
         </item>
@@ -65,34 +65,34 @@ Learn web3 dev skills with fun interactive tutorials. Earn crypto rewards along 
             <title><![CDATA[Web3Wiki]]></title>
             <link>http://wiki.antcave.club/</link>
             <guid>http://wiki.antcave.club/</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[A  Web3 WIKI for Developer]]></description>
         </item>
         <item>
             <title><![CDATA[OurNetwork]]></title>
             <link>https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ</link>
             <guid>https://ournetwork.mirror.xyz/gP16wLY-9BA1E_ZuOSv1EUAgYGfK9mELNza8cfgMWPQ</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cadena]]></title>
             <link>https://cadena.incl.us/</link>
             <guid>https://cadena.incl.us/</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[Learn by coding smart contracts, NFTs, tokens and more with our free courses. Then earn an NFT Certificate that unlocks exclusive job opportunities and perks.]]></description>
         </item>
         <item>
             <title><![CDATA[Build a Practical NFT Ticketing ]]></title>
             <link>https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c</link>
             <guid>https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[Build a Practical NFT Ticketing Service with Solidity and React]]></description>
         </item>
         <item>
             <title><![CDATA[Encode Bootcamps]]></title>
             <link>https://www.encode.club/encode-bootcamps</link>
             <guid>https://www.encode.club/encode-bootcamps</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[Apply for our free intensive bootcamps
 and become a web3 developer!]]></description>
         </item>
@@ -100,42 +100,42 @@ and become a web3 developer!]]></description>
             <title><![CDATA[Figment Learn]]></title>
             <link>https://learn.figment.io/</link>
             <guid>https://learn.figment.io/</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[The Web 3 education platform for developers, by developers.]]></description>
         </item>
         <item>
             <title><![CDATA[Enterprise Blockchain Technologies]]></title>
             <link>https://github.com/hyperledger-labs/university-course</link>
             <guid>https://github.com/hyperledger-labs/university-course</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[This free, open-source course aims at providing a reliable basis for university students to get started in enterprise blockchain.]]></description>
         </item>
         <item>
             <title><![CDATA[Defi Academy]]></title>
             <link>https://www.defi-academy.com/</link>
             <guid>https://www.defi-academy.com/</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[Learn how to design and create decentralized finance platforms on the Ethereum Blockchain]]></description>
         </item>
         <item>
             <title><![CDATA[IPFS Course]]></title>
             <link>https://proto.school/course/ipfs</link>
             <guid>https://proto.school/course/ipfs</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[The InterPlanetary File System (IPFS) is a peer-to-peer network protocol for storing and sharing data in a distributed file system, with addresses based on content, not location.]]></description>
         </item>
         <item>
             <title><![CDATA[CryptoHack]]></title>
             <link>https://cryptohack.org/</link>
             <guid>https://cryptohack.org/</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[A fun, free platform for learning modern cryptography]]></description>
         </item>
         <item>
             <title><![CDATA[buildspace]]></title>
             <link>https://buildspace.so/</link>
             <guid>https://buildspace.so/</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[The world's largest on-chain network.
 If you're a developer interested in web3, this is the spot for you. Come create your profile, start building in web3, earn NFTs, and access secret work opportunities in crypto.]]></description>
         </item>
@@ -143,7 +143,7 @@ If you're a developer interested in web3, this is the spot for you. Come create 
             <title><![CDATA[ChainShot]]></title>
             <link>https://www.chainshot.com/</link>
             <guid>https://www.chainshot.com/</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[Fast-Track
 Your Ethereum Developer Career
 Join a 100% live and online Bootcamp
@@ -153,7 +153,7 @@ Acquire highly desired skills in blockchain and smart contracts]]></description>
             <title><![CDATA[Get started with blockchain development]]></title>
             <link>https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/</link>
             <guid>https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[This learning path introduces you to blockchain and development on the Ethereum platform. Discover what skills are necessary to learn to begin building your own blockchain networks at scale.
 
 ]]></description>
@@ -162,28 +162,28 @@ Acquire highly desired skills in blockchain and smart contracts]]></description>
             <title><![CDATA[Blockchain Specialization]]></title>
             <link>https://www.coursera.org/specializations/blockchain</link>
             <guid>https://www.coursera.org/specializations/blockchain</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[Innovate with the Next Frontier in Technology. Learn how the blockchain is leading to a paradigm shift in decentralized application programming]]></description>
         </item>
         <item>
             <title><![CDATA[Blockchain Developer Online Bootcamp]]></title>
             <link>https://consensys.net/academy/</link>
             <guid>https://consensys.net/academy/</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[Get the skills you need to become an industry-leading Ethereum developer with our flagship Blockchain Developer Bootcamp!]]></description>
         </item>
         <item>
             <title><![CDATA[Blockchain Berkeley]]></title>
             <link>https://blockchain.berkeley.edu/courses/</link>
             <guid>https://blockchain.berkeley.edu/courses/</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[DECAL COURSES ON CAMPUS AND EDX COURSES ONLINE]]></description>
         </item>
         <item>
             <title><![CDATA[Crypto-Startup-School]]></title>
             <link>https://a16z.com/crypto-startup-school/</link>
             <guid>https://a16z.com/crypto-startup-school/</guid>
-            <pubDate>Tue, 02 May 2023 06:08:44 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 06:08:53 GMT</pubDate>
             <description><![CDATA[Learn How to Build a Crypto Company]]></description>
         </item>
     </channel>
